@@ -1,6 +1,5 @@
-- 👋 Hi, I’m Rafia Kanwal
-- 👀 I’m interested in web Development 
 
+-I am Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> 
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
