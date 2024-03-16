@@ -10,7 +10,7 @@ I am Web Developer   <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/
 
 - :zap: In my free time , I engage in both gaming and tackling complex coding algorithms with fervor.
 
-
+- :mailbox:How to reach me:  raffiyakanwal@gmail.com
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=talhaStti&theme=dark&background=000000)](https://git.io/streak-stats)
